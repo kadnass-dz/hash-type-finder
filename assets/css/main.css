@@ -1,0 +1,35 @@
+body{
+background-color: #1d1d1d;
+}
+h1{
+font-family: Cabin,Helvetica Neue,Helvetica,Arial,sans-serif;
+font-weight: 700;
+margin: 0 0 35px;
+letter-spacing: 1px;
+text-transform: uppercase;
+}
+.inp{
+
+    background: rgb(44, 44, 44);
+    color: #ced4da;
+    border-color: #28a745;
+
+}
+.inp:focus {
+	background: rgb(44, 44, 44) !important;
+    color: #ced4da !important;
+    border-color: #28a745;
+    outline: 0;
+    box-shadow: 0 0 0 .2rem rgba(40,167,69,.25);
+}
+.spinner-border{
+	display: none;
+}
+.res{
+	min-height: 300px;
+	background: rgb(44, 44, 44) !important;
+	color: #ced4da !important;
+	border: none;
+	padding: 10px;
+
+}
