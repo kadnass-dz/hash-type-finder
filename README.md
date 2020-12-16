@@ -14,4 +14,4 @@ A php tool to determine the type of hash. support over 200 hash types.
  -   SHA-Crypt
  -   PHPS
  -   and more…
-
+![](Screenshot_2020-12-17_00-39-26.png)
