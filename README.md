@@ -1,4 +1,4 @@
-# Password-Hash-Identification
+# Hash-Identification
 A php tool to determine the type of hash. support over 200 hash types.
  The tool can look at the characters that make up the hash to possibly identify which type of hash it is and what it may be used for.
    - MD5
